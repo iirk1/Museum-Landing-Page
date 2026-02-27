@@ -8,7 +8,7 @@ The project focuses on pixel-perfect layout, semantic HTML, SCSS architecture, a
 ## **LIVE DEMO**
 
 **View the live website:**
-👉 https://iirk1.github.io/Museum/
+👉 https://iirk1.github.io/Museum-Landing-Page/
 
 ---
 
