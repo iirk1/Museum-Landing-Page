@@ -8,7 +8,7 @@ The project focuses on pixel-perfect layout, semantic HTML, SCSS architecture, a
 ## **LIVE DEMO**
 
 **View the live website:**
-👉 https://iirk1.github.io/Museum-Landing-Page/
+👉 [Museum Landing Page](https://iirk1.github.io/Museum-Landing-Page/)
 
 ---
 
@@ -28,7 +28,7 @@ The project focuses on pixel-perfect layout, semantic HTML, SCSS architecture, a
 ### **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/Museum.git
+git clone https://github.com/iirk1/Museum-Landing-Page.git
 cd Museum
 ```
 

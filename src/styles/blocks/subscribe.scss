@@ -2,16 +2,16 @@
   &__bg {
     width: 100%;
     height: 386px;
-    background-image: url('./../images/subscribe/bg-mobile.jpg');
+    background-image: url("./../images/subscribe/bg-mobile.jpg");
     background-position: center;
     background-size: cover;
 
     @include onTablet {
-      background-image: url('./../images/subscribe/bg-tablet.jpg');
+      background-image: url("./../images/subscribe/bg-tablet.jpg");
     }
 
     @include onDesktop {
-      background-image: url('./../images/subscribe/bg-desktop.jpg');
+      background-image: url("./../images/subscribe/bg-desktop.jpg");
       height: 550px;
     }
   }
@@ -116,9 +116,15 @@
     padding: 0 13px;
     background-color: #f14a27;
 
+    transition: all 0.3s ease;
+
     @include onTablet {
       height: 70px;
       padding: 0 23px;
+    }
+
+    &:hover {
+      background-color: #ff2a00;
     }
   }
 }
